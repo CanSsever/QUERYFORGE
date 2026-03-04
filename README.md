@@ -62,6 +62,8 @@ The QueryForge system operates in the following stages:
 8. **Execution Logging**
    - Results and logs are stored for reproducibility and debugging.
 
+    ! See architecture diagram in /docs/architecture.md !
+
 ---
 
 # Technology Stack
